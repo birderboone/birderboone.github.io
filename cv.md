@@ -12,14 +12,15 @@ Matthew E. Boone
 [@birderboone](https://twitter.com/birderboone)  
 
 ## Education  
+============================================
 **M.S in Wildlife Ecology**, *May 2016* (GPA - 3.90)  
 **University of Delaware** *Department of Entomology and Wildlife Ecology*  
 Dr. Jeffrey J. Buler   
 
-  `>•	4Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
-•	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.  
-•	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.  
-•	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.  `
+  `•	5Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.` 
+`•	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.`   
+`•	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.`  
+`•	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.` 
   
 
 **B.S in Biology - Ecology, Evolution, and Behavior** *May 2009* (GPA - 3.48)  
@@ -28,7 +29,7 @@ Dr. Michael Ryan
 >•	Assisted in a study on the effect of gonad size on mating system choice by surgically removing the gonad of Swordtails (genus Xiphphorus), dried, and weighed samples.
 
 ## Work Experience
-
+============================================
 **Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
 *Intensive Forest Management*    
