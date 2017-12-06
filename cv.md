@@ -16,9 +16,9 @@ Matthew E. Boone
 **University of Delaware** *Department of Entomology and Wildlife Ecology*  
 Dr. Jeffrey J. Buler   
 
->  •	6Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
+>  • Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
 •	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.   
-•	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.  
+•	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.   
 •	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.   
   
 
