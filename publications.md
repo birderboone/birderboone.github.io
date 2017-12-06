@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+**Peer-reviewed Publications**
 
 2018
 
