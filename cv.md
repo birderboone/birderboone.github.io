@@ -1,5 +1,5 @@
 ---
-layout: pdf_document
+layout: page
 title: cv
 permalink: /cv/
 ---
