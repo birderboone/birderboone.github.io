@@ -13,9 +13,9 @@ permalink: /publications/
 
 2017
 
-**Raine, A.F., Boone, M., Mckown, M., Holmes, N. The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.**  *Marine Ornithology* 45 (2017): 73-82
+**Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** 45 (2017): 73-82
 
-**Raine, A.F., McFarland, B, Banfield, Boone, M., N. Andre An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.** *Pacific Science* 71.1 (2017): 67-76.
+**Raine, A.F., McFarland, B, Banfield, Boone, M., N. Andre** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76.
 
 **Technical Publications**
 
