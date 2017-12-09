@@ -177,10 +177,10 @@ Dr. Michael Ryan
 **General Animal Identification**  
 > • Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.  
 
-## Computer Skills
-R/RStudio Expert - Programming, data analysis, geospatial analysis, and package creation.
-ArcGIS Expert - Spatial analysis and mapmaking
-Microsoft Office Expert - Writing reports, entering data, analyzing data, making graphs
-MYSQL/Access Expert - Creating a database, building queries, QA/QC, and creating forms.
-UNIX Intermediate - Writing bin/bash script and scripting commands
-Markdown Intermediate - Typesetting and creating reports
+## Computer Skills  
+**R/RStudio** *Expert* - Programming, data analysis, geospatial analysis, and package creation.  
+**ArcGIS** *Expert* - Spatial analysis and mapmaking  
+**Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
+**MYSQL/Access** *Expert* - Creating a database, building queries, QA/QC, and creating forms.  
+**UNIX** *Intermediate* - Writing bin/bash script and scripting commands  
+**Markdown/Latek** *Intermediate* - Typesetting and creating reports  
