@@ -94,18 +94,19 @@ Dr. Michael Ryan
 
 ## Professional Development
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
-*2017* **Instructor** ‘Graphing and Programming in R’ *Workshop AOSSCO meeting* (East Lansing, MI)    
-*2015* **Instructor** 'Taking R to the Next Level' *Workshop AOU/COS meeting* (Norman, OK)  
-*2015* **Guest Lecturer** ‘Programming and Data Processing in R’ *Introduction to R* (University of Delaware)    
-*2014* **Guest Lecturer** Wetland policy and management in the United States *Habitat Management* (University of Delaware)    
+*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
+*2015* **Instructor** 'Taking R to the Next Level' **Workshop AOU/COS meeting** (Norman, OK)  
+*2015* **Guest Lecturer** ‘Programming and Data Processing in R’ **Introduction to R** (University of Delaware)    
+*2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management** (University of Delaware)    
 
 ## Volunteer/Service
 *2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe TX counties  
-*2016* **Outreach Coordinator KESRP** - Create media, plan upcoming events, interact with public and responding to requests for information
-*2015/2014 (January) Volunteer University of Central Oklahoma – Drag lining, hand-netting captures, and mist-netting for Black Rails/Yellow Rails/Ammodramus Sparrows
-*2015 Co-leader and Founder of R Club University of Delaware – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.
-*2015 Department Seminar Coordinator University of Delaware – Contact potential speakers, coordinate weekly seminar series, and organize food/coffee schedule.
-Peer-Reviewed Publications
+*2016* **Outreach Coordinator KESRP** - Create media, plan upcoming events, interact with public and responding to requests for information  
+*2015/2014 (January)* **Volunteer** *University of Central Oklahoma* – Drag lining, hand-netting captures, and mist-netting for Black Rails/Yellow Rails/Ammodramus Sparrows  
+*2015* **Co-leader and Founder** *R Club University of Delaware* – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.  
+*2015* **Department Seminar Coordinator** *University of Delaware* – Contact potential speakers, coordinate weekly seminar series, and organize food/coffee schedule.  
+
+## Peer-Reviewed Publications
 Buler, J., Barrow, C., Boone, M. Dawson, D., Diehl, R., Moore, F., Randall, L., Schreckengost, T., Smolinsky, J. (2018). Linking Animals Aloft with the Terrestrial Landscape. In Aeroecology (P. Chilson, F. Winifred, J. Kelly, F. Liechti, Editors). Springer Press.
 McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.  Artificial light confounds broad-scale habitat selection by migrating birds. Ecology Letters (2018)
 Raine, A.F., Boone, M., Mckown, M., Holmes, N. The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.  Marine Ornithology 45 (2017): 73-82
