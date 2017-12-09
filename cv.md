@@ -136,23 +136,26 @@ Dr. Michael Ryan
 >> o	AOU Travel Award $400  
 
 ## Professional Licenses and Certifications
-Wilderness First Aid/CPR NOLS (5/2016)
-B3 Helicopter/Airplane Safety Interagency Aviation Training (5/2016)
-NSC Defensive Driving II National Safety Council (8/2013)
-ATV Rider Certification Safety Institute (6/2013)
-Open Water Scuba Diver Certification PADI (3/2012)
-24hr HAZWOPER Occupational Safety and Health Administration (1/2011)
-Louisiana Boaters License Louisiana DOTD (1/2011)
-Awards/Honors
-2009 University Honors University of Texas
-2008 University Honors University of Texas
-2007 Deans List University of Texas
-Memberships (since)
-2013 The Wildlife Society
-2015 Association of Field Ornithologists
-2015 Wilson Ornithological Society
-2015 American Ornithologists Society
-Field Skills
+**Wilderness First Aid/CPR** *NOLS* (5/2016)  
+**B3 Helicopter/Airplane Safety** *Interagency Aviation Training* (5/2016)  
+**NSC Defensive Driving II** *National Safety Council* (8/2013)  
+**ATV Rider Certification** *Safety Institute* (6/2013)  
+**Open Water Scuba Diver Certification** *PADI* (3/2012)  
+**24hr HAZWOPER** *Occupational Safety and Health Administration* (1/2011)  
+**Louisiana Boaters License** *Louisiana DOTD* (1/2011)  
+
+## Awards/Honors
+*2009* **University Honors** University of Texas  
+*2008* **University Honors** University of Texas  
+*2007* **Deans List** University of Texas  
+
+## Memberships (since)
+*2013* **The Wildlife Society**  
+*2015* **Association of Field Ornithologists**  
+*2015* **Wilson Ornithological Society**   
+*2015* **American Ornithologists Society**  
+
+## Field Skills
 Banding (Birds) - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100. 
 Tagging (Mammals) - Ear tagged approximately 50 small mammals from the Cascades Mountains.
 Biological Surveys - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.
