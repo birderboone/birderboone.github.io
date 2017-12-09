@@ -158,14 +158,26 @@ Dr. Michael Ryan
 ## Field Skills
 **Banding (Birds)** 
 > • Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
+
 **Tagging (Mammals)**  
 > • Ear tagged approximately 50 small mammals from the Cascades Mountains.  
-Biological Surveys - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.
-Navigation - Can navigate to field points using a GPS or map and compass.
-Driving Off-road Vehicles - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.
-Boating - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.
-General Animal Identification - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.
-Computer Skills
+
+**Biological Surveys**  
+> • Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.  
+
+**Navigation**  
+> • Can navigate to field points using a GPS or map and compass.  
+
+**Driving Off-road Vehicles**  
+> • Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.  
+
+**Boating**  
+> • Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.  
+
+**General Animal Identification**  
+> • Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.  
+
+## Computer Skills
 R/RStudio Expert - Programming, data analysis, geospatial analysis, and package creation.
 ArcGIS Expert - Spatial analysis and mapmaking
 Microsoft Office Expert - Writing reports, entering data, analyzing data, making graphs
