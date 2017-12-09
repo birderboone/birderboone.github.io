@@ -1,6 +1,7 @@
 ---
 layout: post
-title: This blog is live
+title: This site is live
 ---
 
 **LIVE**
+Cue blinking lights and marquee
