@@ -107,11 +107,12 @@ Dr. Michael Ryan
 *2015* **Department Seminar Coordinator** *University of Delaware* – Contact potential speakers, coordinate weekly seminar series, and organize food/coffee schedule.  
 
 ## Peer-Reviewed Publications
-2018  
+*2018*
+
 **Buler, J., Barrow, C., Boone, M. Dawson, D., Diehl, R., Moore, F., Randall, L., Schreckengost, T., Smolinsky, J.** (2018). *Linking Animals Aloft with the Terrestrial Landscape.* **In Aeroecology** (P. Chilson, F. Winifred, J. Kelly, F. Liechti, Editors). Springer Press.  
 **McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.**  *Artificial light confounds broad-scale habitat selection by migrating birds.* **Ecology Letters** (2018)
 
-2017  
+*2017*  
 
 **Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** 45 (2017): 73-82  
 
@@ -123,15 +124,16 @@ Dr. Michael Ryan
 
 ## Posters
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
-> •	The Delaware Wetlands Conference - Wilmington, DE, US (2015)
+> •	The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
 •	The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
 
 ## Presentations
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*   
-> •	AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)
->> o	AFO Travel Award $850 
-> •	AOU/COS Joint Meeting - Norman, OK, US (2015)
->> o	AOU Travel Award $400
+> •	AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)  
+>> o	AFO Travel Award $850  
+
+> •	AOU/COS Joint Meeting - Norman, OK, US (2015)  
+>> o	AOU Travel Award $400  
 
 ## Professional Licenses and Certifications
 Wilderness First Aid/CPR NOLS (5/2016)
