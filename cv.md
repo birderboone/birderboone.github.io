@@ -50,10 +50,11 @@ Dr. Michael Ryan
 
 **Marshbird Field Technician** *May 1 – August 15, 2014*  
 **University of Delaware**, DE  
-> •	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol. 
-Migratory Rail Field Technician August 7 - October 21, 2012/2013
-Arkansas Cooperative Fish and Wildlife Research Unit, AR  
-•	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.  
+> •	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol.  
+
+**Migratory Rail Field Technician** *August 7 - October 21, 2012/2013*  
+**Arkansas Cooperative Fish and Wildlife Research Unit**, AR  
+> •	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.  
 
 **Willow Flycatcher Field Technician** *May 7 – August 15, 2013*  
 **SWCA Consulting**, NV  
@@ -87,12 +88,12 @@ Arkansas Cooperative Fish and Wildlife Research Unit, AR
 **Texas Agrilife Extensions Service**, TX  
 > •	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas.  
 
-**Golden-cheeked Warbler Field Technician** *March 14 - July 7, 2010*
+**Golden-cheeked Warbler Field Technician** *March 14 - July 7, 2010*  
 **Texas A&M University**, TX  
 > •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
-=============================================================
+
 ## Professional Development
-2017 Instructor ‘Graphing and Programming in R’ Workshop AOSSCO meeting (East Lansing, MI)
+*2017* Instructor **‘Graphing and Programming in R’** *Workshop AOSSCO meeting* (East Lansing, MI)  
 2015 Instructor 'Taking R to the Next Level' Workshop AOU/COS meeting (Norman, OK)
 2015 Guest Lecturer ‘Programming and Data Processing in R’ Introduction to R (University of Delaware)
 2014 Guest Lecturer Wetland policy and management in the United States Habitat Management (University of Delaware)
