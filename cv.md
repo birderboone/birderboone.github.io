@@ -156,8 +156,10 @@ Dr. Michael Ryan
 *2015* **American Ornithologists Society**  
 
 ## Field Skills
-Banding (Birds) - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100. 
-Tagging (Mammals) - Ear tagged approximately 50 small mammals from the Cascades Mountains.
+**Banding (Birds)** 
+> • Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
+**Tagging (Mammals)**  
+> • Ear tagged approximately 50 small mammals from the Cascades Mountains.  
 Biological Surveys - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.
 Navigation - Can navigate to field points using a GPS or map and compass.
 Driving Off-road Vehicles - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.
