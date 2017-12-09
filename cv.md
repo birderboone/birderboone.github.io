@@ -120,21 +120,20 @@ Dr. Michael Ryan
 ## Technical Publications
 
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
-________________________________________
-Posters
-Boone, M.E., Buler, J.J., Dawson, D.K., Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds. 
-•	The Delaware Wetlands Conference - Wilmington, DE, US (2015)
-•	The Wildlife Society National Conference - Pittsburgh, PA, US (2014)
-Presentations
-Boone, M.E., Buler, J.J., Dawson, D.K., Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar. 
-•	AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)
-o	AFO Travel Award $850 
-•	AOU/COS Joint Meeting - Norman, OK, US (2015)
-o	AOU Travel Award $400
 
+## Posters
+**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
+> •	The Delaware Wetlands Conference - Wilmington, DE, US (2015)
+•	The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
 
-________________________________________
-Professional Licenses and Certifications
+## Presentations
+**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*   
+> •	AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)
+>> o	AFO Travel Award $850 
+> •	AOU/COS Joint Meeting - Norman, OK, US (2015)
+>> o	AOU Travel Award $400
+
+## Professional Licenses and Certifications
 Wilderness First Aid/CPR NOLS (5/2016)
 B3 Helicopter/Airplane Safety Interagency Aviation Training (5/2016)
 NSC Defensive Driving II National Safety Council (8/2013)
