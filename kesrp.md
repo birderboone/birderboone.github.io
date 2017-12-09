@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kauai Endangered Seabird Recovery Project
+title: Kauai Endangered Seabird Recovery Project (KESRP)
 permalink: /kesrp/
 ---
 
-This is will be filled with my projects and links related to eBird
+This is will be filled with products I made while a Database manager and analyst at KESRP
 
 # Download codes
 words  
