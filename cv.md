@@ -28,11 +28,10 @@ Dr. Michael Ryan
 >•	Assisted in a study on the effect of gonad size on mating system choice by surgically removing the gonad of Swordtails (genus Xiphphorus), dried, and weighed samples.
 
 ## Work Experience
-============================================
 **Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
 *Intensive Forest Management*    
->•	Trained technicians on identifying 80+ birds of the Pacific Northwest by sight and sound  
+> •	Trained technicians on identifying 80+ birds of the Pacific Northwest by sight and sound  
 •	Conducted breeding point counts in cut timber stands in the Coast Range of Oregon  
 •	Supervised two technicians including planning daily logistics and data management
 
@@ -40,49 +39,59 @@ Dr. Michael Ryan
 >•	Trapped and ear tagged small mammals of the Cascades using Sherman and Tomahawk traps.  
 •	Marked and measured created tree plots by measuring DBH and height of trees.  
 
-Data Analyst and Database Manager April 15, 2016 – April 13, 2017
-Kauai Endangered Seabird Recovery Project, HI
-•	Analyzed field data and created maps using R and ArcGis 10.3. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL. Maintained integrity and QA/QC of databases.
-•	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.
-•	Managed up to nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.
-•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.
+**Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
+**Kauai Endangered Seabird Recovery Project**, HI  
+> •	Analyzed field data and created maps using R and ArcGis 10.3. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL. Maintained integrity and QA/QC of databases.  
+•	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
+•	Managed up to nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
+•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.  
 •	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
-•	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.
-Marshbird Field Technician May 1 – August 15, 2014
-University of Delaware, DE
-•	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol. 
+•	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.  
+
+**Marshbird Field Technician** *May 1 – August 15, 2014*  
+**University of Delaware**, DE  
+> •	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol. 
 Migratory Rail Field Technician August 7 - October 21, 2012/2013
-Arkansas Cooperative Fish and Wildlife Research Unit, AR
-•	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.
-Willow Flycatcher Field Technician May 7 – August 15, 2013
-SWCA Consulting, NV
-•	Territory and nest searching for the endangered Southwestern Willow Flycatcher in the Lower Colorado River drainage basin. Drove ATV's across desert and river corridors.
-Yellow Rail Field Technician December 7, 2012 - March 31, 2013
-Mississippi State University, MS
-•	Surveyed for Yellow Rails using drag-lining in Pine Savannas of coastal Mississippi and Alabama. Captured, banded, and tracked Yellow Rails using radio telemetry.
-Yellow-billed Cuckoo Field Surveyor July 7 - August 21, 2012
-Great Basin Bird Observatory, NV
-•	Conducted playback surveys for the federally endangered Southwestern Yellow-Billed Cuckoo.
-Avian Field Research Assistant February 1 - June 30, 2012
-Maui Forest Bird Recovery Project, HI
-•	Nest searching, band re-sighting, and territory mapping of the federally endangered Maui Parrotbill. Included backcountry camping and living in close quarters with other technicians for 10 days at a time.
-Field Technician July 14 - October 21, 2011
-Curry and Kerlinger, LLC, NY
-•	Performed daily bird and bat mortality searches at 48 wind turbines in Western New York.
-Golden-winged Warbler Field Technician April 21- July 7, 2011
-University of Tennessee, TN
-•	Conduct Nest searched, band resighted, and performed presence absence play back surveys for the declining Golden-Winged Warbler in the Cumberland Mountains.
-Field Investigator January 3 - March 21, 2011
-Louisiana State University, LA
-•	Conducted mortality searches for waterfowl along ocean transects in the Mississippi River Delta and Gulf of Mexico after the Deep Water Horizon oil spill. Lived on a remote island camp with one other technician. Drove mud-motor and small skiffs in marsh and open water habitat
-Field Technician July 7 - September 14, 2010
-Texas Agrilife Extensions Service, TX
-•	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas. 
-Golden-cheeked Warbler Field Technician March 14 - July 7, 2010
-Texas A&M University, TX
-•	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.
-________________________________________
-Professional Development
+Arkansas Cooperative Fish and Wildlife Research Unit, AR  
+•	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.  
+
+**Willow Flycatcher Field Technician** *May 7 – August 15, 2013*  
+**SWCA Consulting**, NV  
+> •	Territory and nest searching for the endangered Southwestern Willow Flycatcher in the Lower Colorado River drainage basin. Drove ATV's across desert and river corridors.  
+
+**Yellow Rail Field Technician** *December 7, 2012 - March 31, 2013*  
+**Mississippi State University**, MS  
+> •	Surveyed for Yellow Rails using drag-lining in Pine Savannas of coastal Mississippi and Alabama. Captured, banded, and tracked Yellow Rails using radio telemetry.  
+
+**Yellow-billed Cuckoo Field Surveyor** *July 7 - August 21, 2012*  
+**Great Basin Bird Observatory**, NV  
+> •	Conducted playback surveys for the federally endangered Southwestern Yellow-Billed Cuckoo.  
+
+**Avian Field Research Assistant** *February 1 - June 30, 2012*  
+**Maui Forest Bird Recovery Project**, HI  
+> •	Nest searching, band re-sighting, and territory mapping of the federally endangered Maui Parrotbill. Included backcountry camping and living in close quarters with other technicians for 10 days at a time.
+
+**Field Technician** *July 14 - October 21, 2011*  
+**Curry and Kerlinger, LLC**, NY  
+> •	Performed daily bird and bat mortality searches at 48 wind turbines in Western New York.  
+
+**Golden-winged Warbler Field Technician** *April 21- July 7, 2011*
+**University of Tennessee**, TN  
+> •	Conduct Nest searched, band resighted, and performed presence absence play back surveys for the declining Golden-Winged Warbler in the Cumberland Mountains.  
+
+**Field Investigator** *January 3 - March 21, 2011*  
+**Louisiana State University**, LA  
+> •	Conducted mortality searches for waterfowl along ocean transects in the Mississippi River Delta and Gulf of Mexico after the Deep Water Horizon oil spill. Lived on a remote island camp with one other technician. Drove mud-motor and small skiffs in marsh and open water habitat.  
+
+**Field Technician** *July 7 - September 14, 2010*  
+**Texas Agrilife Extensions Service**, TX  
+> •	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas.  
+
+**Golden-cheeked Warbler Field Technician** *March 14 - July 7, 2010*
+**Texas A&M University**, TX  
+> •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
+=============================================================
+## Professional Development
 2017 Instructor ‘Graphing and Programming in R’ Workshop AOSSCO meeting (East Lansing, MI)
 2015 Instructor 'Taking R to the Next Level' Workshop AOU/COS meeting (Norman, OK)
 2015 Guest Lecturer ‘Programming and Data Processing in R’ Introduction to R (University of Delaware)
