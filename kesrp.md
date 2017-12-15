@@ -7,7 +7,7 @@ permalink: /kesrp/
 
 
 
-# Kauai Endangered Seabird Recovery Project** 
+# Kauai Endangered Seabird Recovery Project
 KESRP is an ambitious non-profit located on the island of Kauai, Hawaii. They monitor and research three endangered seabirds that breed on the island, the Newell's Shearwater, Hawaiian Petrel, and Band-rumped Storm-petrel. You can find their homepage [here](http://kauaiseabirdproject.org/)  
 
 During my time as the Database manager and Data analyst at KESRP, I created many useful tools working with Audio Recording units, RECONYX game cameras, and Access databases. This page summarizes these tools. Currently it's links to the codes themselves. 
