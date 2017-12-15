@@ -16,7 +16,9 @@ During my time as the Database manager and Data analyst at KESRP, I created many
 
 </div>
 
-**Audio Recording Units (ARU)** are cutting edge field audio recorders used throughout the world to record bats, birds, and insects for biological surveying. They are highly useful, but can lead to data challenges, particularly when used in high numbers. They create vast amounts of data that needs to be downloaded off of SD cards, organized, summarized, and stored locally. This quick downloader in R, allows you to download from as many local SD card readers as you can manage, organizes their files, and creates a log file to easily manage your data. This code works great for SM2 and SM4 units made by Wildlife Acoustics.
+**Audio Recording Units (ARU)** are cutting edge field audio recorders used throughout the world to record bats, birds, and insects for biological surveying. They are highly useful, but can lead to data challenges, particularly when used in high numbers. They create vast amounts of data that needs to be downloaded off of SD cards, organized, summarized, and stored locally.  
+
+Another issue with these units is they can use multiple SD cards which need to be matched up and logged correctly. This quick downloader in R, allows you to download from as many local SD card readers as you can manage, organizes their files, and creates a log file to easily manage your data. This code works great for SM2 and SM4 units made by Wildlife Acoustics.
 
 The link to the code is [here](https://github.com/birderboone/KESRP-Tools/blob/master/sm_downloader.R)  
 ## Database analysis
