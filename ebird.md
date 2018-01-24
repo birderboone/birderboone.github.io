@@ -25,7 +25,7 @@ With the addition of the eBird profile, eBird has vastly improved the visual out
 
 ![How To download yourd data](https://i.imgur.com/osTddYN.png)
 
-This code will be up by the end of the week (End of Jan 2018)
+This code will be up by the end of Jan 2018
 
 ![ebird preview all locations](https://i.imgur.com/IV4HEO6.png)
 
@@ -39,4 +39,4 @@ I wanted to create an app that allowed people to use their downloaded birding da
 
 ![ebird listing preview](https://i.imgur.com/Y3rztEi.png)
 
-I expect to update the link by the end of January.
+I expect to post the finished code up by the end of January 2018.
