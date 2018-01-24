@@ -21,11 +21,11 @@ The link can be found below:
 [Texas eBird Shiny app](https://github.com/birderboone/ebird)
 
 # Life List Widget
-with the addition of the eBird profile, eBird has vastly improved the visual output for users on about their life lists. I wanted to improve on this concept and push the statistics and summaries farther. I built a shiny widget that show you more data on your birding habits. Simply request a download of your data, and unzip the resulting file.
+With the addition of the eBird profile, eBird has vastly improved the visual output for users on about their life lists. I wanted to improve on this concept and push the statistics and summaries farther. I built a shiny widget that show you more data on your birding habits. Simply request a download of your data, and unzip the resulting file.
 
 ![How To download yourd data](https://i.imgur.com/osTddYN.png)
 
-Now download the shiny app, (here)[], change the working directory to the current codes location, and run all code!
+This code will be up by the end of the week (End of Jan 2018)
 
 ![ebird preview all locations](https://i.imgur.com/IV4HEO6.png)
 
@@ -33,3 +33,10 @@ Now download the shiny app, (here)[], change the working directory to the curren
 
 
 # Listing and Needs Widget for eBird
+eBird central contains many great features for birding listers, inlcuding needs alerts and target species. However, it lacks a couple of features that might be useful for birders or data junkies.
+
+I wanted to create an app that allowed people to use their downloaded birding data (see above), to forecast where the best places to bird are to gain more life or year birds. This tool is meant to be fun and largely for curiosity sake. So I hope you'll have fun with it!
+
+![ebird listing preview](https://i.imgur.com/Y3rztEi.png)
+
+I expect to update the link by the end of January.
