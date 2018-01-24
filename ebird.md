@@ -25,5 +25,11 @@ with the addition of the eBird profile, eBird has vastly improved the visual out
 
 ![How To download yourd data](https://i.imgur.com/osTddYN.png)
 
+Now download the shiny app, (here)[], change the working directory to the current codes location, and run all code!
+
+![ebird preview all locations](https://i.imgur.com/IV4HEO6.png)
+
+![ebird preview life birds](https://i.imgur.com/Qg70kSz.png)
+
 
 # Listing and Needs Widget for eBird
