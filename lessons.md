@@ -16,7 +16,7 @@ These lessons are free for anyone to download:
 In collaboration with Desiree Narango, we created the R club to help students with R and answer questions. For this I wrote a couple of 
 R challenges to help students learn more about problem solving in R. You can download lessons and answers
 
-(ENWC R challenges)[https://enwcrclub.weebly.com/activities.html]
+[ENWC R challenges](https://enwcrclub.weebly.com/activities.html)
 
 
 
