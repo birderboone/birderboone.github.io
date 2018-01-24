@@ -9,7 +9,7 @@ As a regional editor for central Texas and a data junky I have worked significan
 # Texas Filters Widget 
 Texas contains 254 counties that host over 500 bird species annually spanning desert, alpine, shrubland, coastal, and riparian wetland habitats. Dozens of volunteers in the state of Texas tirelessly maintain the filters for each county in order to maintain data integrity. The task of creating accurate filters for each of the 254 counties in Texas is extremely difficult for a handful of volunteers and resources are often scattered.
 
-With the help of head Texas eBird editor, Eric Carpenter, I created a tool that uses the current filters and presence absence data from eBird to visualize and monitor these filters for the Texas eBird portal.   
+With the help of head Texas eBird editor, Eric Carpenter, I created a tool that uses the current filters and presence absence data from eBird to visualize and monitor these filters for the Texas eBird portal. This includes what other filters are present, county level timings of birds, and datatables to find rare birds that are not on filters.  
 <div style="text-align:center" markdown="1">
 
   ![ebird shinny ap](https://i.imgur.com/Zo1vWtL.png)
