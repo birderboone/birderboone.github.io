@@ -1,14 +1,31 @@
+---
+layout: post
+title: AOS 2018 TUCSON
+---
 ##Meet me at AOS 2018 in Tucson!
 
 I've just got the announcement from the American Ornithologist Society panel that I'll be leading **TWO** events at the conference in Tuscon.
 
-1. Auriel and I will continue the tradition of teaching our R Workshop
-**"Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building”**
+1. Auriel Fournier and I will continue the tradition of teaching our R Workshop at AOS  
+**"Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building”**  
 we're taking notes from last year and changing the structure of the workshop a bit. This year we are continuing to teach the the Tidyverse section
 and Auriels every popular GGplot course. I am changing up the structure of my portion and focusing on function building with an emphasis on automation.
 I hope this will allow students get learn something new and at a pace that will hopefully stick with them.
 
+The workshop is April 10th. 
 
 I'll post the updates as I get them on the Course page.
+
+2. I am leading the First meeting of the oRnithologists a collaboration to get R programmers together and show off what we've built.  
+With R's ever increasing popularity and rise in amazing things being created by scientists there is a need for communication between
+programmers on the latest trends, standards, and showing of the novel things being built.
+
+As I focus heavily on user inteface with R, I will be presenting a couple of widgets I've built in Shiny and discuss the usefulness of using R
+in your lab.
+
+Come join us April 13, 2018 to talk R.
+
+You can sign up for AOS [here](https://amornithmeeting2018.org/). 
+
 
 -Matt
