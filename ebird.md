@@ -12,7 +12,7 @@ Texas contains 254 counties that host over 500 bird species annually spanning de
 With the help of head Texas eBird editor, Eric Carpenter, I created a tool that uses the current filters and presence absence data from eBird to visualize and monitor these filters for the Texas eBird portal.   
 <div style="text-align:center" markdown="1">
 
-  ![ebird shinny ap](https://i.imgur.com/f7XLDIf.png)
+  ![ebird shinny ap](https://i.imgur.com/Zo1vWtL.png)
   
 </div>
 This tool currently runs in a SHINY R app that can be run locally on a computer. Just download the entire folder below. Install the necessary packages (noted at the top of the code), enter your working directory, and hit run. 
@@ -21,4 +21,9 @@ The link can be found below:
 [Texas eBird Shiny app](https://github.com/birderboone/ebird)
 
 # Life List Widget
-SHINY app currently in production...stay tuned.
+with the addition of the eBird profile, eBird has vastly improved the visual output for users on about their life lists. I wanted to improve on this concept and push the statistics and summaries farther. I built a shiny widget that show you more data on your birding habits. Simply request a download of your data, and unzip the resulting file.
+
+![How To download yourd data](https://i.imgur.com/osTddYN.png)
+
+
+# Listing and Needs Widget for eBird
