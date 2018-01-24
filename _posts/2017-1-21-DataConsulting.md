@@ -10,6 +10,6 @@ This includes using correct data file structures, databases, and integrated anal
 
 I am available for consultation on any of your data needs and projects. I have built R packages, widgets, and databases for groups since 2013.
 
-Contact me at mttboone@gmail.com for any inquiries on consulting services.
+Contact me at [mttboone@gmail.com](mailto:mttboone@gmail.com) for any inquiries on consulting services.
 
 -Matt
