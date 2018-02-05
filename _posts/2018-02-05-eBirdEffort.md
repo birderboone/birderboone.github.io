@@ -8,8 +8,12 @@ All of this surge in birding and a pronounced increase in free time got me start
 
 ![ddd](https://i.imgur.com/AnCyPLo.png)
 
-Initial mapping of this showed obvious trends, counties with cities in them are filtered out and populous areas like the Northeast, and areas with low populations few checklists. Disproportionately Mississippii, Kentucky, and West Virgina seem to be under birded even compared to the Great Plains (one of the better known eBird effort holes).
+Initial mapping of this showed obvious trends, counties with cities in them are filtered out and populous areas like the Northeast, and areas with low populations few checklists. Disproportionately Mississippii, Kentucky, and West Virgina seem to be under birded even compared to the Great Plains (one of the better known eBird effort holes). How does this total effort effect species seen?
 
-Part of the USGS Gap Analysis project effort is to calculate likely species richiness across the United States. When we look at maps of avian species richness we notice that species richness increases the farther south and proximate to coastlines.
+![ddd](https://i.imgur.com/HoCx4zI.png)
+
+I mapped the total number of species seen all time per state to explore if this effort might be affecting diversity. When looking at this map obvious birding hotspots (Texas, Arizona, and California) stand out easily. These states are all big, south, and contain very diverse habitat including Sky Islands, Deserts, Forests, unique wetlands, and boarding the tropics. Noticeably lacking is the entirety of the Mississippi River drainage and Central Plains. In particular there are obvious biases in ND,SD, NE, AR, MS, KY, and WV. So how many species are we supposed to see in these areas and how underbirded are they?
+
+Part of the USGS Gap Analysis project effort is to calculate likely species richiness across the United States. When we look at maps of avian species richness we notice that species richness increases the farther south and proximate to coastlines. Mountain ranges notoriously lead to less species richiness on a small scale but increase it when paired with novel habitat types (like deserts in the west).
 
 ![usgs gap anaylsis](https://gapanalysis.usgs.gov/species/files/2012/03/Birds_Richness.png)
