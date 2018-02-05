@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What states should you bird in?
+title: Where should you bird today?
 ---
 I've recently moved to San Bernard NWR on the upper Texas coast for some winter Rail catching. This refuge boasts some of the highest bird species totals in the United States (a respectable 311). This is partly due to it's location right in the epicenter of spring gulf migration and its proximaty to Houston (1.5 hours). The entire area of the gulf coast contains impressive  winter birding oppurtunties including being only 40 minutes from the [famous Mad Island WMA](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/texas/explore/mad-island-bird-count.xml?redirect=https-301), whose CBC totals rank number one 20 of the past 25 years.
 
