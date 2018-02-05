@@ -8,7 +8,7 @@ All of this surge in birding and a pronounced increase in free time got me start
 
 ![ddd](https://i.imgur.com/AnCyPLo.png)
 
-Initial mapping showed obvious trends, populous areas such as cities and the Northeast contain high numbers of submitted checklist, where as areas with low populations contain relatively few checklists. Disproportionately Mississippii, Kentucky, and West Virgina seem to be under birded even compared to the Great Plains (one of the better known eBird effort holes). How does this total effort effect species seen?
+Initial mapping showed obvious trends, populous areas such as cities and the Northeast contain high numbers of submitted checklist, where as areas with low populations contain relatively few checklists. Disproportionately Mississippii, Kentucky, and West Virgina seem to be under birded even compared to the Great Plains (one of the better known eBird effort holes). How does this total effort affect species seen?
 
 ![ddd](https://i.imgur.com/HoCx4zI.png)
 
