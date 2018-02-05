@@ -28,12 +28,12 @@ An important note is none of these really get at birding vagrancies, something I
 
 --------------------------------------------------------------
 
-One question looming, particularly when addressing the Central Plains, is how many more birds could be found with more birders birding an area. This is notoriously refered to as the [Patagonia picnic table effect](https://en.wikipedia.org/wiki/Patagonia_picnic_table_effect). Wherein, more birders searching in an area brings more birds. 
+One question looming, particularly when addressing the Central Plains, is how many more birds could be found with more birding an area. This is notoriously refered to as the [Patagonia picnic table effect](https://en.wikipedia.org/wiki/Patagonia_picnic_table_effect). Wherein, more birders searching in an area brings more birds. 
 
 Highly birded sites noted for birding (AZ, CA, FL, and TX) and states with high populations (NY, OH, PA) boast high amount of species rarities. So where should you bird to have the best chance of adding novel data to the system? The states with the lowest checklists total would be a good place to start. Interestingly, 7 states in the bottom 10 of least checklists are also in the bottom 10 of total species. 
 ![dd](https://i.imgur.com/QO2ro6D.png)
 
-However, one issue is population varies in each of these states. So to account for this I calculated the ratio of total checklists to population (2010 Census). Which leads us to our rather surprising and comical final map. with the understanding that one hyper eBirder can bias areas if they submit multiple checklists every day (as does happen in certain areas).
+However, one issue is population varies in each of these states which effects the amount of total checklists that could be submitted. Certain states naturally contain more birders than others and thus any single contribution is masked by other birders in the area. So to account for this I calculated the ratio of total checklists to population (2010 Census). Which leads us to our rather surprising and comical final map. with the understanding that one hyper eBirder can bias areas if they submit multiple checklists every day (as does happen in certain areas).
 
 ![fff](https://i.imgur.com/H1ngAGu.png)
 
