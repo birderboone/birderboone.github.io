@@ -37,8 +37,10 @@ However, one issue is population varies in each of these states. So to account f
 
 ![fff](https://i.imgur.com/H1ngAGu.png)
 
-I expect on Vermont birders were aware of this impressive stat, for every 3 people living in Vermont 1 eBird checklist has been submitted (Since Jan 2018). Here again we see if you should bird any state in the United States Mississippi and Kentucky would be a great bet. These states are both underbirded and likely chocked full of new birds for you to find! Even our estimates of Mississippi's potential come from two states that have their own effort problems (refer back to the original map). 
+I expect only Vermont birders were aware of this impressive stat, for every 3 people living in Vermont 1 eBird checklist has been submitted (Since Jan 2018). Besides that we see that Mississippi and Kentucky are criminally underbirded. These states are both underbirded and likely chocked full of new birds for you to find! Even our estimates of Mississippi's potential come from two states that have their own effort problems (refer back to the original map). 
 
-Just remember that county birding can be very exciting, particularly when not birding in one of the top birding areas like New Jersey, Ohio, Texas, and California. So get out there and bird your heart out!.
+My suggestion for all budding birders itching for a challenge is to visit any of our underbirded counties, particularly if you live in any of the bottom 10 birded states (the Great Plains States, Mississippi, Kentucky, and West Virginia). Not only will you be adding novel data to eBird but your chances of finding unique or new birds is quite high. The lowest birded states have opportunities for even relatively new birders to find state firsts that states like Texas, California, Arizona, and New Jersey can't offer.
+
+So get out there and bird your heart out!.
 
 -Matt
