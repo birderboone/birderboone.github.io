@@ -22,7 +22,7 @@ This data shows bordering states, particularly those that contain similar water 
 
 MS (379) sits somewhere between Louisiana (450) and Alabama (432) an increase of ~60 birds!
 
-The entirety of the Great Plains is much more difficult to estimate. For starters the whole of the central United States is under birded, and features like the Great Lakes and the Rocky Mountains can increase species richiness. With that said a liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) sit somewhere between Colorado (494) and Montana (408). Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and Stuh Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. 
+The entirety of the Great Plains is much more difficult to estimate. For starters the Central United States is under birded and features like the Great Lakes and the Rocky Mountains can increase species richiness. A liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) sit somewhere between Colorado (494) and Montana (408). Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and South Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. 
 
 An important note is none of these really get at birding vagrancies, something I hope to address soon. 
 
