@@ -18,22 +18,20 @@ Luckily, USGS, as part of their [Gap Analysis project](https:Fre//gapanalysis.us
 
 ![usgs gap anaylsis](https://gapanalysis.usgs.gov/species/files/2012/03/Birds_Richness.png)
 
-This data shows states bordering each other, particularly those that contain similar water features should be approximately similar in species diversity. Meaning states like West Virginia (328) and Kentucky (348) likely contain somewhere between Ohio (404) and Tennessee (394). That's an increase of ~70 and 50 birds! 
+This data shows states bordering each other, particularly those that contain similar water features should be approximately similar in species diversity. Meaning states like West Virginia (328 birds) and Kentucky (348 birds) likely contain somewhere between Ohio (404) and Tennessee (394). That's an increase of ~70 and 50 birds! 
 
-MS (379) sits somewhere between Louisiana (450) and Alabama (432) an increase of ~60 birds!
+MS (379) sits somewhere between Louisiana (450) and Alabama (432), an increase of ~60 birds!
 
-The entirety of the Great Plains is much more difficult to estimate. For starters the Central United States is under birded and features like the Great Lakes and the Rocky Mountains can increase species richiness. A liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) sit somewhere between Colorado (494) and Montana (408). Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and South Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. 
+The entirety of the Great Plains is much more difficult to estimate. For starters the Central United States is under birded and features like the Great Lakes and the Rocky Mountains can increase species richiness. Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and South Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. A liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) probably sit somewhere between Colorado (494) and Montana (408).
 
 An important note is none of these really get at birding vagrancies, something I hope to address soon. 
 
 --------------------------------------------------------------
 
-One question looming, particularly when addressing the Central Plains, is how many more birds could be found with more birding an area. This is notoriously refered to as the [Patagonia picnic table effect](https://en.wikipedia.org/wiki/Patagonia_picnic_table_effect). Wherein, more birders searching in an area brings more birds. 
-
-Highly birded sites noted for birding (AZ, CA, FL, and TX) and states with high populations (NY, OH, PA) boast high amount of species rarities. So where should you bird to have the best chance of adding novel data to the system? The states with the lowest checklists total would be a good place to start. Interestingly, 7 states in the bottom 10 of least checklists are also in the bottom 10 of total species. 
+Highly birded sites noted for birding (AZ, CA, FL, and TX) and states with high populations (NY, OH, PA) boast high amount of species rarities. So if you choose to bird an area how likely are you to find something new? This is notoriously refered to as the [Patagonia picnic table effect](https://en.wikipedia.org/wiki/Patagonia_picnic_table_effect). Wherein, more birders searching in an area brings more birds. The states with the lowest checklists total would be a good place to start. Interestingly, 7 states in the bottom 10 of total checklists are also in the bottom 10 of total species. 
 ![dd](https://i.imgur.com/QO2ro6D.png)
 
-However, one issue is population varies in each of these states which effects the amount of total checklists that could be submitted. Certain states naturally contain more birders than others and thus any single contribution is masked by other birders in the area. So to account for this I calculated the ratio of total checklists to population (2010 Census). Which leads us to our rather surprising and comical final map. with the understanding that one hyper eBirder can bias areas if they submit multiple checklists every day (as does happen in certain areas).
+However, one issue is population varies in each of these states which affects the amount of total checklists that could be submitted. Certain states naturally contain more birders than others and thus any single contribution is masked by other birders in the area. So to account for this I calculated the ratio of total checklists to population (2010 Census). Which leads us to our rather surprising and comical final map. with the understanding that one hyper eBirder can bias areas if they submit multiple checklists every day (as does happen in certain areas).
 
 ![fff](https://i.imgur.com/H1ngAGu.png)
 
