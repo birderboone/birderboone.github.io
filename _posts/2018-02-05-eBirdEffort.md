@@ -14,7 +14,7 @@ Initial mapping showed obvious trends, populous areas like cities and the entire
 
 To figure out how effort might affect species diversity on eBird I mapped the total number of species seen all time per state. When looking at this map the obvious birding hotspots (Texas, Arizona, and California) stand out. These states are all big, south, and contain very diverse habitat including Sky Islands, Deserts, Forests, unique wetlands, and boarder Mexico. Noticeably lacking is the entirety of the Mississippi River drainage and Central Plains. In particular there are obvious biases in ND, SD, IA, MS, KY, and WV. So how many species are we supposed to see in these areas and how underbirded are they?
 
-Luckily, USGS, as part of their (Gap Analysis project)[https://gapanalysis.usgs.gov/species/], calculated likely species richiness across the United States. When we look at maps of avian species richness we notice that species richness increases the farther south and proximate to coastlines. Mountain ranges notoriously lead to less species richiness on a small scale but increase it when paired with novel habitat types (like deserts in the west).
+Luckily, USGS, as part of their [Gap Analysis project](https://gapanalysis.usgs.gov/species/), calculated likely species richiness across the United States. When we look at maps of avian species richness we notice that species richness increases the farther south and proximate to coastlines. Mountain ranges notoriously lead to less species richiness on a small scale but increase it when paired with novel habitat types (like deserts in the west).
 
 ![usgs gap anaylsis](https://gapanalysis.usgs.gov/species/files/2012/03/Birds_Richness.png)
 
