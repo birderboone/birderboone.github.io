@@ -22,7 +22,7 @@ This data shows bordering states, particularly those that contain similar water 
 
 MS (379) sits somewhere between Louisiana (450) and Alabama (432) an increase of ~60 birds!
 
-The entirety of the Great Plains is much more difficult to estimate. For starters the whole of the central United States is under birded, and features like the Great Lakes and the Rockie Mountains can increase species richiness. With that said a liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) sit somewhere between Colorado (494) and Montana (408). Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and Stuh Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. 
+The entirety of the Great Plains is much more difficult to estimate. For starters the whole of the central United States is under birded, and features like the Great Lakes and the Rocky Mountains can increase species richiness. With that said a liberal estimate for  North Dakota (366), South Dakota (370), and Wyoming (389) sit somewhere between Colorado (494) and Montana (408). Colorado has both a good birder population and a healthy contrast between the Rockies and Great Plains making it difficult to compare to mountainless North Dakota. However, Wyoming's edition of the Tetons and Stuh Dakotas Black Hills suggest numbers for these states might approach Colorado in birding potential. 
 
 An important note is none of these really get at birding vagrancies, something I hope to address soon. 
 
@@ -30,7 +30,7 @@ An important note is none of these really get at birding vagrancies, something I
 
 One question looming, particularly when addressing the Central Plains, is how many more birds could be found with more birders birding an area. This is notoriously refered to as the [Patagonia picnic table effect](https://en.wikipedia.org/wiki/Patagonia_picnic_table_effect). Wherein, more birders searching in an area brings more birds. 
 
-Highly birded sites noted for birding (AZ, CA, FL, and TX) and states with high populations (NY, OH, PA) boast high amount of species rarities. So where should you bird to have the best chance of adding novel data to the system? The states with the lowest checklists total would be a good place to start. Interestingly, 7 states in the bottom 10 lowest checklist numbers are also in the bottom 10 of total species. 
+Highly birded sites noted for birding (AZ, CA, FL, and TX) and states with high populations (NY, OH, PA) boast high amount of species rarities. So where should you bird to have the best chance of adding novel data to the system? The states with the lowest checklists total would be a good place to start. Interestingly, 7 states in the bottom 10 of least checklists are also in the bottom 10 of total species. 
 ![dd](https://i.imgur.com/QO2ro6D.png)
 
 However, one issue is population varies in each of these states. So to account for this I calculated the ratio of total checklists to population (2010 Census). Which leads us to our rather surprising and comical final map. with the understanding that one hyper eBirder can bias areas if they submit multiple checklists every day (as does happen in certain areas).
