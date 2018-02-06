@@ -8,7 +8,7 @@ This effect has been coined the [Patagonia picnic table effect](https://en.wikip
 
 My first stop in this line of thinking was to figure out where are the underbirded areas in the United States. Logic should dictate if there are non-birded areas near ones with high amounts of species then that area likely also has good birds in it. So my question was "Where might an increase in birding lead to the largest increase in novel data?" 
 
-To explore this idea I started an eBird data mining exercise. I will detail later my tactic for data mining eBird, but for now I'll be brief. Using R I acquired all presence absence data from eBird for all counties in the United States. I used the map functions in ggplot to then map this data. My first stop was to map total birds reported on eBird by state to see what states might have obvious descrepancies in bird totals.
+To explore this idea I started an eBird data mining exercise. I will detail later my tactic for data mining eBird, but for now I'll be brief. Using R I acquired all presence absence data from eBird for all counties in the United States. I used the map functions in ggplot to then map this data. I began by mapping the total number of birds reported on eBird by state to see what states might have obvious descrepancies in bird totals.
 
 ![state map](https://i.imgur.com/HoCx4zI.png)
 
