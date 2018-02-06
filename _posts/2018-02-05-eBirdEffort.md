@@ -12,7 +12,8 @@ To explore this idea I started an eBird data mining exercise. I will detail late
 
 ![state map](https://i.imgur.com/HoCx4zI.png)
 
-This showed an obvious bias in birds in known birdy areas (TX, CA, AZ, FL) as well as places with high populations (NY, MA). Less birded states. The states with the lowest birding totals were from states that weren't known to be overly birdy (WV, KY, IA, ND, SD), however, Mississippi stood out because it's location on the gulf coast and similar lattitude to known birdy spots (TX, CA, LA). But are these lower totals due to less birds or less birders? Having lived in Mississippi I know first hand that the amount of active birders is very low. So to look at if the difference in birding effort might affect birding totals I mapped the bottom ten lowest states by checklists and the bottom ten lowest states by birds seen.
+This showed an obvious bias in birds in known birdy areas (TX, CA, AZ, FL) as well as places with high populations (NY, MA). The states with the lowest birding totals were from states that weren't known to be overly birdy (WV, KY, IA, ND, SD), however, Mississippi stood out because it's location on the gulf coast and similar lattitude to known birdy spots (TX, CA, LA). But are these lower totals due to less birds or less birders? Having lived in Mississippi I know first hand that the amount of active birders is very low. So to look at if the difference in birding effort might affect birding totals I mapped the bottom ten lowest states by checklists and the bottom ten lowest states by birds seen.
+
 
 ![dd](https://i.imgur.com/QO2ro6D.png)
 
