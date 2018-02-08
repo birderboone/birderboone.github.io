@@ -18,14 +18,15 @@ With the help of head Texas eBird editor, Eric Carpenter, I created a tool that 
 This tool currently runs in a SHINY R app that can be run locally on a computer. Just download the entire folder below. Install the necessary packages (noted at the top of the code), enter your working directory, and hit run. 
 
 The link can be found below:
-[Texas eBird Shiny app](https://github.com/birderboone/ebird)
+[Texas eBird Shiny app](https://github.com/birderboone/eBird_TxFilter_ShinnyApp)
 
 # Life List Widget
 With the addition of the eBird profile, eBird has vastly improved the visual output for users on about their life lists. I wanted to improve on this concept and push the statistics and summaries farther. I built a shiny widget that show you more data on your birding habits. Simply request a download of your data, and unzip the resulting file.
 
 ![How To download yourd data](https://i.imgur.com/osTddYN.png)
 
-This code will be up by the end of Jan 2018
+The link can be found below:
+[eBird Summary App](https://github.com/birderboone/eBird_Summary_ShinyApp)
 
 ![ebird preview all locations](https://i.imgur.com/dLiUvJS.png)
 
@@ -39,4 +40,4 @@ I wanted to create an app that allowed people to use their downloaded birding da
 
 ![ebird listing preview](https://i.imgur.com/Y3rztEi.png)
 
-I expect to post the finished code up by the end of January 2018.
+I expect to post the finished code up soon.
