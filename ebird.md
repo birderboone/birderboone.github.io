@@ -27,9 +27,9 @@ With the addition of the eBird profile, eBird has vastly improved the visual out
 
 This code will be up by the end of Jan 2018
 
-![ebird preview all locations](https://i.imgur.com/IV4HEO6.png)
+![ebird preview all locations](https://i.imgur.com/dLiUvJS.png)
 
-![ebird preview life birds](https://i.imgur.com/Qg70kSz.png)
+![ebird preview life birds](https://i.imgur.com/hUZaiC6.png)
 
 
 # Listing and Needs Widget for eBird
