@@ -40,4 +40,4 @@ I wanted to create an app that allowed people to use their downloaded birding da
 
 ![ebird listing preview](https://i.imgur.com/Y3rztEi.png)
 
-I expect to post the finished code up soon.
+Check back shortly for this project to finish up.
