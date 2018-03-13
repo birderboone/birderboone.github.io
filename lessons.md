@@ -18,5 +18,5 @@ R challenges to help students learn more about problem solving in R. You can dow
 
 [ENWC R challenges](https://enwcrclub.weebly.com/activities.html)
 
-
-
+### Links to great lessons
+- *Creating packages* is a great lesson for moderate and advanced R users for sharing code and packaging together commonly used functions for daily use. Hillary Parker at Not So Standard Deviations makes a useful and quick write up on [package writing](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)  
