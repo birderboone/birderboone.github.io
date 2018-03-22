@@ -22,14 +22,13 @@ This certainly proves one thing, there's always more birds. But it also brings u
 -------------------------------------------------
 My resulting model shows many patterns we already knew. Coastal and southern sites have the highest expected diversity, and these results are similar to our actual ebird diversity. Perhaps more surprising is that western diversity as a whole is expected to be much higher than interior eastern diversity, particularly in the Appalachian region. In total our lowest diversity was in Patrick county, Virginia (240 birds), our highest total was from Los Angelos county (487), and our average diversity was 299 birds for each county. 
 
+You can find the resulting table and browse though it [here](https://github.com/birderboone/birderboone.github.io/blob/master/ebirdSpeciesModeled.csv)
+
 ![](https://i.imgur.com/V7TEDjj.png)
 *Increase in bird diversity compared to current eBird reports*
 
 -------------------------------------------------
 When we take the difference between reported diversity on eBird and modeled diversity we get a map thats very similar to our map of [total submitted checklists](https://birderboone.github.io/eBirdEffort/). The northern plains and Mississippi remain underbirded and contain the highest descrepancy between actual birds seen and likely birds in the area. When we look at locations in Texas, the South, and the Atlantic coast, many of the counties are within a days drive of a major metropolis. Southern Mississippi counties, for example, can easily be accessed on a day or weekend from Biloxi, New Orleans, and Mobile. Texas maybe surprising after my spiel on the Texas Century Club, but it highlights how hard is to increases birding in regions that are quite remote and contain few oppurtunities to actually bird. Many century club members resort to side of the road point counts to boost their numbers. Publicly accessed land just doesnt exist in some regions.
-
-You can find the resulting table [here](https://github.com/birderboone/birderboone.github.io/blob/master/ebirdSpeciesModeled.csv)
-
 
 The take home message is there's always new places and reasons to bird. The excitement of birding new areas can come from finding new county records, exploring new areas, or adding novel data to citizen science efforts. There's never truly destitute birding areas, that's what makes birding so great. You can find new things everywhere you go. You just have to get out there and spend time in the field
 
