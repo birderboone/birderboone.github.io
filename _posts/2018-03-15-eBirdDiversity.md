@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling birding diversity in the U.S
+title: How many birds are there in the U.S?
 ---
 Recently I asked the question: [what counties in the US were the most underbirded](https://birderboone.github.io/eBirdEffort/). I found that the Central and Southern United States were severely underbirded, and was surprised at the large discrepancy in effort across the United States. For example the #1 county by submissions, Los Angelos county, has an impressive 181,000 checklists submitted all time. This would rank #7 worldwide, just behind the United Kingdom if L.A. was considered it's own country (luckily its not). Now compare this to Martin, Kentucky with only 12 checklists submitted **EVER**. Clearly data from these two counties are not similar.
 
