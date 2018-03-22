@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How many birds are there in the U.S?
+title: How many birds can you see in each U.S. county?
 ---
 Recently I asked the question: [what counties in the US were the most underbirded](https://birderboone.github.io/eBirdEffort/). I found that the Central and Southern United States were severely underbirded, and was surprised at the large discrepancy in effort across the United States. For example the #1 county by submissions, Los Angelos county, has an impressive 181,000 checklists submitted all time. This would rank #7 worldwide, just behind the United Kingdom if L.A. was considered it's own country (luckily its not). Now compare this to Martin, Kentucky with only 12 checklists submitted **EVER**. Clearly data from these two counties are not similar.
 
@@ -27,6 +27,9 @@ My resulting model shows many patterns we already knew. Coastal and southern sit
 
 -------------------------------------------------
 When we take the difference between reported diversity on eBird and modeled diversity we get a map thats very similar to our map of [total submitted checklists](https://birderboone.github.io/eBirdEffort/). The northern plains and Mississippi remain underbirded and contain the highest descrepancy between actual birds seen and likely birds in the area. When we take in consideration locations in Texas, the south, and Atlantic coast, many of the counties are within a days drive of a major metropolis. Southern Mississippi counties, for example, can easily be accessed on a day or weekend from Biloxi, New Orleans, and Mobile. Texas maybe surprising after my spiel on the Texas Century Club, but it highlights how hard is to increases birding in regions that are quite remote and contain few oppurtunities to actually bird. Many century club members resort to side of the road point counts to boost their numbers. Publicly accessed land just doesnt exist in some regions.
+
+You can find the resulting table [here](https://github.com/birderboone/birderboone.github.io/blob/master/ebirdSpeciesModeled.csv)
+
 
 The take home message is there's always new places and reasons to bird. The excitement of birding new areas can come from finding new county records, exploring new areas, or adding novel data to citizen science efforts. There's never truly destitute birding areas, that's what makes birding so great. You can find new things everywhere you go. You just have to get out there and spend time in the field
 
