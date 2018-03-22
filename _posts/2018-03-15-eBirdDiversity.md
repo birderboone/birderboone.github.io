@@ -33,7 +33,7 @@ The take home message is there's always new places and reasons to bird. The exci
 -Matt
 
 
-## Methods
+### Methods
 For the test data set I used countries with atleast 5000 checklists. My previous work with eBird data showed that 5000 checklists in a region tends to create adequate sampling in area for timing charts and relatively accurate presence calculations. In the USA, 662/3100 counties reach this milestone. Regions with high numbers of checklists tend to find more rare birds than similar regions even past our 5000 cut off. To help alleviate the bias from these regions, I filtered out extremely rare birds by subsetting the data to species seen at a presence of 0.001 (0.1%). 
 
 I wanted to model species diversity on eBird, which represents more than just expected diversity of native birds but also vagrancies. The [Biodiversity Mapping Project](http://biodiversitymapping.org/wordpress/index.php/usa-birds/), calculated bird diversity in the United States for conservation efforts and allowed access to the outputs. I used this variable as a good metric of baseline diversity in the region. 
