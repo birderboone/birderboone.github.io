@@ -16,7 +16,7 @@ Texas is a good case study in trying to increase birding in underbirded areas an
 ## So how many birds are there?
 This certainly proves one thing, there's always more birds. But it also brings up another question. How many birds are there supposed to be in every county? While counties containing large cities are likely reasonably accurate in their species richness, we may never know how many birds actually exist in underbirded areas. I wanted to figure out if I could use these highly bird areas as test data to model what factors might affect birding diversity. I modeled eBird diversity in highly birded counties against climatic, physically, and biological variables that might affect bird diversity. Once this model was created I interpolated it across the United States. I outlinded the methods at the end of the page if you want to take a look. Otherwise I'll skip to the results.
 
-![](https://i.imgur.com/VDGZpKY.png)
+![](https://i.imgur.com/i2mmR3b.png)
 *Modeled bird diversity across the United States*
 
 -------------------------------------------------
