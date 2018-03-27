@@ -35,10 +35,16 @@ The take home message is there's always new places and reasons to bird. The exci
 -Matt
 
 
-### Methods
+
+
+----------------------------------------------
+
+#### Methods
 For the test data set I used countries with atleast 5000 checklists. My previous work with eBird data showed that 5000 checklists in a region tends to create adequate sampling in area for timing charts and relatively accurate presence calculations. In the USA, 662/3100 counties reach this milestone. Regions with high numbers of checklists tend to find more rare birds than similar regions even past our 5000 cut off. To help alleviate the bias from these regions, I filtered out extremely rare birds by subsetting the data to species seen at a presence of 0.001 (0.1%). 
 
 I wanted to model species diversity on eBird, which represents more than just expected diversity of native birds but also vagrancies. The [Biodiversity Mapping Project](http://biodiversitymapping.org/wordpress/index.php/usa-birds/), calculated bird diversity in the United States for conservation efforts and allowed access to the outputs. I used this variable as a good metric of baseline diversity in the region. 
 
-To help explain factors that might lead to increased vagrancies in a region I included varibles like county area, mean precipitation, elevational range, distance to the coast, and temperature range. I calculated each of these metrics for every county in the United States in R (praise be to it). Finally, I modeled the total number of birds seen on eBird against our biodiversity metric, area, and the mentioned climate metrics using Boosted Regresssion Trees and interpolated the model across the United States
+To help explain factors that might lead to increased vagrancies in a region I included varibles like county area, mean precipitation, elevational range, distance to the coast, and temperature range. I calculated each of these metrics for every county in the United States in R (praise be to it). Finally, I modeled the total number of birds seen on eBird against our biodiversity metric, area, and the mentioned climate metrics using Boosted Regresssion Trees and interpolated the model across the United States.
+
+One weakness of this method is it relies heavily on the calculated Biodiversity metric, and this is apparent in the results as it's the most frequently chosen variable. This is partly because I don't have access to GIS, and calculating landcover metrics for 3100 counties was going to take literal days of computing time in R. If I ever get my hands on precalculated or summarized variables of landcover, I can get rid of the Biodiversity metric and just model ir raw like god intended.
 
