@@ -19,5 +19,5 @@ R challenges to help students learn more about problem solving in R. You can dow
 [ENWC R challenges](https://enwcrclub.weebly.com/activities.html)
 
 ### Links to great lessons
-- **Creating packages** is a great lesson for moderate and advanced R users for sharing code and packaging together commonly used functions for daily use. Hillary Parker at Not So Standard Deviations makes a useful and quick write up on [package writing](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)  
-- **Writing Shiny Apps** is a useful way to visualize and create dynamic code for people that is accesible to various levels of users. I learned through these [free online tutorials](https://shiny.rstudio.com/tutorial/)
+- [**Creating packages**](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)   is a great lesson for moderate and advanced R users for sharing code and packaging together commonly used functions for daily use. Hillary Parker at Not So Standard Deviations makes a useful and quick write up on package writing.  
+- [**Writing Shiny Apps**](https://shiny.rstudio.com/tutorial/) is a useful way to visualize and create dynamic code for people that is accesible to various levels of users. I learned through these free online tutorials.
