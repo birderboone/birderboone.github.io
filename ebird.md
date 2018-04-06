@@ -31,7 +31,7 @@ With the addition of the eBird profile, eBird has vastly improved the visual out
 The link can be found below:
 [eBird Summary App](https://github.com/birderboone/eBird_Summary_ShinyApp)  
 
-![How To download yourd data](https://i.imgur.com/osTddYN.png)
+![How To download yourd data](https://i.imgur.com/osTddYN.png)  
 *Just download and unzip your data from ebird*  
   
 ![ebird preview all locations](https://i.imgur.com/dLiUvJS.png)
