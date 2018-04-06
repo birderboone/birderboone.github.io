@@ -15,6 +15,11 @@ With the help of head Texas eBird editor, Eric Carpenter, I created a tool that 
   ![ebird shinny ap](https://i.imgur.com/Zo1vWtL.png)
   
 </div>
+
+*The app allows you to compare sightings, presences, and other counties fitler decisions across the state*  
+
+![](https://i.imgur.com/kPlb4fl.png)
+*You can create dynamic timing maps that help decide what time filter limits should be*  
 This tool currently runs in a SHINY R app that can be run locally on a computer. Just download the entire folder below. Install the necessary packages (noted at the top of the code), enter your working directory, and hit run. 
 
 The link can be found below:
@@ -26,12 +31,13 @@ With the addition of the eBird profile, eBird has vastly improved the visual out
 ![How To download yourd data](https://i.imgur.com/osTddYN.png)
 
 The link can be found below:
-[eBird Summary App](https://github.com/birderboone/eBird_Summary_ShinyApp)
+[eBird Summary App](https://github.com/birderboone/eBird_Summary_ShinyApp)  
+*Just download and unzip your data from ebird*  
 
 ![ebird preview all locations](https://i.imgur.com/dLiUvJS.png)
-
+*You can plot all your birding locations across the US*  
 ![ebird preview life birds](https://i.imgur.com/hUZaiC6.png)
-
+*The app even graphs your birding over time*  
 
 # Listing and Needs Widget for eBird
 eBird central contains many great features for birding listers, inlcuding needs alerts and target species. However, it lacks a couple of features that might be useful for birders or data junkies.
