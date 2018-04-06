@@ -14,5 +14,5 @@ This packages includes tools to:
 * Create output summaries that can be easily mapped in GIS using output files.
 
 # Radar Package
-Currently this is a repository for my radar package. This large package has so many novel intricacies it will take a while to summarize them all outside of the included help file. Currently we are discussing releasing it publically, for now if you are interested contact [me](mailto:mttboone@gmail.com) or my advisor [Dr. Jeff Buler](mailto:jbuler@udel.edu)
+This large package has so many novel intricacies it will take a while to summarize them all outside of the included help file. Currently we are discussing releasing it publically, for now if you are interested in receiving a copy contact [me](mailto:mttboone@gmail.com) or my advisor [Dr. Jeff Buler](mailto:jbuler@udel.edu)
 
